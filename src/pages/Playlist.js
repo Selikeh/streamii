@@ -57,7 +57,7 @@ function Playlist({ userProfile, setUserProfile,currentTrackInfo, setCurrentTrac
                     {playListTracksData.length !== 0? playListTracksData.map((trackData)=>(
                         <div className="flex gap-2 rounded-sm hover:bg-slate-600 hover:cursor-pointer" key={trackData.data.tracks[0].id} onClick={()=>{
                             // setCurrentTrackInfo('')
-                            if(currentTrackInfo !== '' && currentTrackInfo.tracks[0].id == trackData.data.tracks[0].id){
+                            if(currentTrackInfo !== '' && currentTrackInfo.tracks[0].id === trackData.data.tracks[0].id){
                                 setIsSameTrack(prev=>!prev)
                             }else{
                                 setIsSameTrack(false)

@@ -13,7 +13,7 @@ function Player({ userProfile, setUserProfile, currentTrackInfo, setCurrentTrack
     const [isPlaying, setIsPlaying] = useState(false)
     function deepCheck(arr, obj){
         for (let i = 0; i < arr.length; i++) {
-            if (arr[i].data.tracks[0].id == obj){
+            if (arr[i].data.tracks[0].id === obj){
                 return i    
             }
         }

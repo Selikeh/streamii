@@ -12,10 +12,6 @@ function Search({setCurrentTrackInfo, setInPlayList}){
                 fetch(`/.netlify/functions/searchApiCalls?searchQuery=${searchQuery}`)
                     .then(response => response.json())
                     .then(response => {
-                        // if(response.query == searchQuery){
-                        //     // console.log(response)
-                        //     // console.log(returnedSearchTracks)
-                        // }
                         console.log(response)
                         setReturnedSearchTracks(response.data.tracks.items)
                     })
