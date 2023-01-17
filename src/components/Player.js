@@ -84,7 +84,7 @@ function Player({ userProfile, setUserProfile, currentTrackInfo, setCurrentTrack
                 <div>
                     <div className="w-full flex justify-between pr-3">
                         <div className="flex justify-items-start gap-5">
-                            {currentTrackInfo !== ''? <img className="h-20 max-h-20 aspect-square " src={currentTrackInfo.tracks[0].album.images[2].url} />: null}
+                            {currentTrackInfo !== ''? <img className="h-20 max-h-20 aspect-square " src={currentTrackInfo.tracks[0].album.images[2].url}  alt={currentTrackInfo.tracks[0].name}/>: null}
                                 <div className="pt-3">
                                     {currentTrackInfo !== ''? <h4 className=" text-lg font-bold">{currentTrackInfo.tracks[0].name}</h4>: null}
                                     {currentTrackInfo !== ''? currentTrackInfo.tracks[0].artists.map((artist, index)=>(
