@@ -86,9 +86,10 @@ function Playlist({ userProfile, setUserProfile,currentTrackInfo, setCurrentTrac
             </>
             : <div>Error!!!!!!!!!!!!!!</div>
             }
-            <button onClick={logTracksData}>Log</button>
+            {/* For testing and 'debugging' purposes */}
+            {/* <button onClick={logTracksData}>Log</button>
             <button onClick={()=>console.log(currentTrackInfo)}>LogCurrent</button>
-            <button onClick={()=>console.log(playListTracksData) }>Log playListTracksData</button>
+            <button onClick={()=>console.log(playListTracksData) }>Log playListTracksData</button> */}
         </>
     )
 }
