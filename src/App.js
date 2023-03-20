@@ -31,39 +31,39 @@ function App() {
         playLists: [
           {
             id: 1,
-            playListTitle: 'Chill Mix',
+            playListTitle: 'Queen Mix',
             playListImg: flow,
-            playListTracksIds:['4WNcduiCmDNfmTEz7JvmLv', '65rRB2mspD309xE6YimZTl']
+            playListTracksIds:['7hQJA50XrCWABAu5v6QZ4i', '11IzgLRXV7Cgek3tEgGgjw' ,'54flyrjcdnQdco7300avMJ',  '7tFiyTwD0nx5a1eklYtX2J' ,'7h2yhVxcZOGyQdOwD4Hu8J'/*,'7GqWnsKhMtEW0nzki5o0d8' ,'6cFZ4PLC19taNlpl9pbGMf','57JVGBtBLCfHw2muk5416J','7h2yhVxcZOGyQdOwD4Hu8J','7ccI9cStQbQdystvc6TvxD','1HmzAZUvhQLhLo2z3ocpZI','2HPvr5vD9rjbc0tejSmkkp' */]
           },
           {
             id: 2,
-            playListTitle: 'Drill Mix',
+            playListTitle: 'Eminem Mix',
             playListImg: dj,
-            playListTracksIds:['123', '987']
+            playListTracksIds:['5Z01UMMf7V1o0MzF86s6WJ','6or1bKJiZ06IlK0vFvY75k','0qcjuYtMWhBjXg0Xwt5SzS','4UMTp91LHhvW33ol9ZQH0Q','4xkOaSrkexMciUUogZKVTS'/* ,'3yfqSUWxFvZELEM4PmlwIR','2gsNpSn7VvvJuSrIDfRoYy','561jH07mF1jHuk7KlaeF0s','3UmaczJpikHgJFyBTAJVoz','7zl7kehxesNEo2pYkKXTSe','7Ie9W94M7OjPoZVV216Xus','4gXdMZkBN1neE9nX6yRALa' */]
           },
           {
             id: 3,
             playListTitle: 'Rock Mix',
             playListImg: jagged,
-            playListTracksIds:['456', '654']
+            playListTracksIds:['7jwDuO7UZvWs77KNj9HbvF','04aAxqtGp5pv12UXAg4pkq', '4Yf5bqU3NK4kNOypcrLYwU','4o74y4XY1ypNZkZtZkK8Wi','60a0Rd6pjrkxjPbaKzXjfq'/* ,'0UFDKFqW2oGspYeYqo9wjA','4wzjNqjKAKDU82e8uMhzmr','1lgN0A2Vki2FTON5PYq42m','2nLtzopw4rPReszdYBJU6h','2Z8WuEywRWYTKe1NybPQEW', '49nmsafpkJp2lDj9b4jkxh','4G8gkOterJn0Ywt6uhqbhp' */]
           },
           {
             id:4,
-            playListTitle: 'Funk Mix',
+            playListTitle: 'Kanye Mix',
             playListImg: virus,
-            playListTracksIds:['789', '321']
+            playListTracksIds:['2Im64pIz6m0EJKdUe6eZ8r','4EWCNWgDS8707fNSZ1oaA5', '22L7bfCiAkJo5xGSQgmiIO','6etwirSInfuJrSOlogS6Sh','5Pt83OUaK3K9C2if4C5JOk'/* ,'2dxjKgT0li4qBI3QwuN9Ih','3A4cpTBPaIQdtPFb5JxtaX','3nAq2hCr1oWsIU54tS98pL','6vegnfDS8DAEaCqWaPYGPy','722tgOgdIbNe3BEyLnejw4','4qikXelSRKvoCqFcHLB2H2','2dxjKgT0li4qBI3QwuN9Ih' */]
           },
           {
             id:5,
-            playListTitle: 'Game Playlist',
+            playListTitle: 'Top Gaming Tracks',
             playListImg: bear,
-            playListTracksIds:['2c5Isyd07hWsl7AQia2Dig', '6vegnfDS8DAEaCqWaPYGPy']
+            playListTracksIds:['2c5Isyd07hWsl7AQia2Dig', '6vegnfDS8DAEaCqWaPYGPy','0kUz4NuENHYVUChlthlNaB','0VO8gYVDSwM1Qdd2GsMoYK','6Ole34qqbgkZ60IyrcVm7e'/* ,'3F5CgOj3wFlRv51JsHbxhe','0O6u0VJ46W86TxN9wgyqDj','0HqZX76SFLDz2aW8aiqi7G','40uMIn2zJLAQhNXghRjBed','2JvzF1RMd7lE3KmFlsyZD8','3GdWfmQBiiJrDUvSZS1bGv','68Dni7IE4VyPkTOH9mRWHr' */]
           },
           {
             id: 6,
             playListTitle: 'Chill Mix',
             playListImg: fall,
-            playListTracksIds:['4WNcduiCmDNfmTEz7JvmLv', '65rRB2mspD309xE6YimZTl']
+            playListTracksIds:['4WNcduiCmDNfmTEz7JvmLv', '65rRB2mspD309xE6YimZTl','0Fs9cdPDhptWEDJmiCbkEW','5IgjP7X4th6nMNDh4akUHb','4hTErxf8ZqFNGH0hZqEoAI'/* ,'7oDd86yk8itslrA9HRP2ki','5CM4UuQ9Gnd6K2YyKGPMoK','2HhJ0b1AwX5Vgcnf3zzx1p','7rbECVPkY5UODxoOUVKZnA','2dHHgzDwk4BJdRwy9uXhTO','2g6tReTlM2Akp41g0HaeXN','4tqcoej1zPvwePZCzuAjJd' */]
           }
         ]
       },
@@ -72,33 +72,33 @@ function App() {
         playLists: [
           {
             id: 1,
-            playListTitle: 'Grime Mix',
+            playListTitle: 'R&B Mix',
             playListImg: lake,
-            playListTracksIds:['4WNcduiCmDNfmTEz7JvmLv', '65rRB2mspD309xE6YimZTl']
+            playListTracksIds:['4PhsKqMdgMEUSstTDAmMpg', '2fQ6sBFWaLv2Gxos4igHLy','08uGhvS5MfBk7crUCpnjva','6bnF93Rx87YqUBLSgjiMU8','3fLXPbXiezgmbJEEOkT8ve'/* ,'04KTF78FFg8sOHC1BADqbY','7t2bFihaDvhIrd2gn2CWJO','0XO2hckt5aHvvwH7FFdVYF','6HfOzLLjsaXsehIFEsrxTk','7MXVkk9YMctZqd1Srtv4MB','1IIKrJVP1C9N7iPtG6eOsK','6jG2YzhxptolDzLHTGLt7S' */]
           },
           {
             id: 2,
-            playListTitle: 'Drill Mix',
+            playListTitle: 'Locked In',
             playListImg: dj,
-            playListTracksIds:['123', '987']
+            playListTracksIds:['01Lr5YepbgjXAWR9iOEyH1', '1xzBco0xcoJEDXktl7Jxrr','7LR85XLWw2yXqKBSI5brbG','1jaTQ3nqY3oAAYyCTbIvnM','42zd6DYQ4o4SECmTITrM1U'/* ,'5SWnsxjhdcEDc7LJjq9UHk','2IRZnDFmlqMuOrYOLnZZyc','2I9foKseoFQh07p6sD2voE','6ScJMrlpiLfZUGtWp4QIVt','0nbXyq5TXYPCO7pr3N8S4I','3hQCHzkE5oSA3F1xM8bpcM','2BcMwX1MPV6ZHP4tUT9uq6' */]
           },
           {
             id: 3,
             playListTitle: 'Rock Mix',
             playListImg: floral,
-            playListTracksIds:['456', '654']
+            playListTracksIds:['7jwDuO7UZvWs77KNj9HbvF','04aAxqtGp5pv12UXAg4pkq', '4Yf5bqU3NK4kNOypcrLYwU','4o74y4XY1ypNZkZtZkK8Wi','60a0Rd6pjrkxjPbaKzXjfq'/* ,'0UFDKFqW2oGspYeYqo9wjA','4wzjNqjKAKDU82e8uMhzmr','1lgN0A2Vki2FTON5PYq42m','2nLtzopw4rPReszdYBJU6h','2Z8WuEywRWYTKe1NybPQEW', '49nmsafpkJp2lDj9b4jkxh','4G8gkOterJn0Ywt6uhqbhp' */]
           },
           {
             id:4,
-            playListTitle: 'Funk Mix',
+            playListTitle: 'Power Workout',
             playListImg: fall,
-            playListTracksIds:['789', '321']
+            playListTracksIds:['1bDbXMyjaUIooNwFE9wn0N', '1EJIcDYXwSqipW5dFe4uJz', '3w1WjD2zJqjBjDz5fwqQPJ','02kDW379Yfd5PzW5A6vuGt','4A8cWXxKfIL3lAyUDzXbCF'/* ,'7KXjTSCq5nL1LoYtL7XAwS','0vjeOZ3Ft5jvAi9SBFJm1j','527k23H0A4Q0UJN3vGs0Da','6gBFPUFcJLzWGx4lenP6h2','3QFInJAm9eyaho5vBzxInN','3XOalgusokruzA5ZBA2Qcb','4Li2WHPkuyCdtmokzW2007' */]
           },
           {
             id:5,
-            playListTitle: 'Game Playlist',
+            playListTitle: '2004 Hits',
             playListImg: virus,
-            playListTracksIds:['2c5Isyd07hWsl7AQia2Dig', '6vegnfDS8DAEaCqWaPYGPy']
+            playListTracksIds:['5rb9QrpfcKFHM1EUbSIurX', '2PpruBYCo4H7WOBJ7Q2EwM','4dvQg9sD8k9y4qiEURuj8v','0YUrjFy4qFKOO5NhM9tYdV','4mmkhcEm1Ljy1U9nwtsxUo'/* ,'2NBQmPrOEEjA8VbeWOQGxO','7wBThXx7BGZHJJ3aN3OPvv','5g1vtHqi9uV7xtYeCcFOBx','4hfIVhq0F0zFUcrbecsYmo','0qcjuYtMWhBjXg0Xwt5SzS','68vgtRHr7iZHpzGpon6Jlo','0RmXtDH1cBMGImRrmn5xL6' */]
           }
         ]
       },
@@ -107,33 +107,33 @@ function App() {
         playLists: [
           {
             id: 1,
-            playListTitle: 'Power Workout',
+            playListTitle: 'RnB Mix',
             playListImg: fall,
-            playListTracksIds:['4WNcduiCmDNfmTEz7JvmLv', '65rRB2mspD309xE6YimZTl']
+            playListTracksIds:['4PhsKqMdgMEUSstTDAmMpg', '2fQ6sBFWaLv2Gxos4igHLy','08uGhvS5MfBk7crUCpnjva','6bnF93Rx87YqUBLSgjiMU8','3fLXPbXiezgmbJEEOkT8ve'/* ,'04KTF78FFg8sOHC1BADqbY','7t2bFihaDvhIrd2gn2CWJO','0XO2hckt5aHvvwH7FFdVYF','6HfOzLLjsaXsehIFEsrxTk','7MXVkk9YMctZqd1Srtv4MB','1IIKrJVP1C9N7iPtG6eOsK','6jG2YzhxptolDzLHTGLt7S' */]
           },
           {
             id: 2,
-            playListTitle: 'Drill Mix',
+            playListTitle: 'HipHop Mix',
             playListImg: dj,
-            playListTracksIds:['123', '987']
+            playListTracksIds:['69bHJ9qs5FrUJbKP8xU8uZ', '2xLMifQCjDGFmkHkpNLD9h','2c5Isyd07hWsl7AQia2Dig', '6vegnfDS8DAEaCqWaPYGPy','1Ser4X0TKttOvo8bgdytTP'/* ,'4UQMOPSUVJVicIQzjAcRRZ', '6lbhWl34Il0WXm5pX1fM9E','6ws54n2IzyrIxxyzlG2bVJ','33gwZOGJWEZ7dRWPqPxBEZ','7bHT9osSq1rwT2yaImzqCi','0Fs9cdPDhptWEDJmiCbkEW','2XHzzp1j4IfTNp1FTn7YFg', */]
           },
           {
             id: 3,
-            playListTitle: 'Rock Mix',
+            playListTitle: 'Rock',
             playListImg: jagged,
-            playListTracksIds:['456', '654']
+            playListTracksIds:['7jwDuO7UZvWs77KNj9HbvF','04aAxqtGp5pv12UXAg4pkq', '4Yf5bqU3NK4kNOypcrLYwU','4o74y4XY1ypNZkZtZkK8Wi','60a0Rd6pjrkxjPbaKzXjfq'/* ,'0UFDKFqW2oGspYeYqo9wjA','4wzjNqjKAKDU82e8uMhzmr','1lgN0A2Vki2FTON5PYq42m','2nLtzopw4rPReszdYBJU6h','2Z8WuEywRWYTKe1NybPQEW', '49nmsafpkJp2lDj9b4jkxh','4G8gkOterJn0Ywt6uhqbhp' */]
           },
           {
             id:4,
-            playListTitle: 'Funk Mix',
+            playListTitle: 'Drill Mix',
             playListImg: virus,
-            playListTracksIds:['789', '321']
+            playListTracksIds:['6uvMKqNlrSvcC4NaKnrwjZ', '2zxEc1GCSCxbHIXTfhraRC','6mSzsSdu0CWIV70jEjWMhI',]
           },
           {
             id:5,
-            playListTitle: 'Hip Hop Mix',
+            playListTitle: 'Pop Mix',
             playListImg: bear,
-            playListTracksIds:['2c5Isyd07hWsl7AQia2Dig', '6vegnfDS8DAEaCqWaPYGPy']
+            playListTracksIds:['3PXaV1mMx4Yff79iQivEkQ','4rHZZAmHpZrA3iH5zx8frV','4gbVRS8gloEluzf0GzDOFc','4LRPiXqCikLlN15c3yImP7','0O6u0VJ46W86TxN9wgyqDj'/* ,'1PnAx788sAvcI3ZxTlEyX8','4jbmgIyjGoXjY01XxatOx6','4NeOWqHmlrGRuBvsLJC9rL','4KTtYhxFtFL7mBwnjkKfLm','0KKkJNfGyhkQ5aFogxQAPU','00Blm7zeNqgYLPtW6zg8cj','37FXw5QGFN7uwwsLy8uAc0' */]
           }
         ]
       }
